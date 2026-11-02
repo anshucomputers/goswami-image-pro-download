@@ -16,8 +16,8 @@ https://anshucomputers.github.io/goswami-image-pro-download/
 
 | File | Kya hai |
 |---|---|
-| `Goswami-Image-Pro-Setup-1.10.44.exe` | Installer — double click, Install, Start menu se khol lein. |
-| `Goswami-Image-Pro-Trial-1.10.44.zip` | Bina-install folder — pen drive par copy karke chalane ke liye. |
+| `Goswami-Image-Pro-Setup-1.10.45.exe` | Installer — double click, Install, Start menu se khol lein. |
+| `Goswami-Image-Pro-Trial-1.10.45.zip` | Bina-install folder — pen drive par copy karke chalane ke liye. |
 
 Dono files har release ke **Assets** me hoti hain:
 https://github.com/anshucomputers/goswami-image-pro-download/releases
