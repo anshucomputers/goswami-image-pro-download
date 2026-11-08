@@ -16,8 +16,9 @@ https://anshucomputers.github.io/goswami-image-pro-download/
 
 | File | Kya hai |
 |---|---|
-| `Goswami-Image-Pro-Setup-1.10.46.exe` | Installer — double click, Install, Start menu se khol lein. |
-| `Goswami-Image-Pro-Trial-1.10.46.zip` | Bina-install folder — pen drive par copy karke chalane ke liye. |
+| `Goswami-Image-Pro-Setup-1.10.69.exe` | Installer — double click, Install, Start menu se khol lein. |
+| `Goswami-Image-Pro-Trial-1.10.69.zip` | Bina-install folder — pen drive par copy karke chalane ke liye. |
+| `Goswami-Image-Pro-Features-1.10.69.pdf` | Saare 61 features ki do-page A4 list — customer ko dikhane ke liye. |
 
 Dono files har release ke **Assets** me hoti hain:
 https://github.com/anshucomputers/goswami-image-pro-download/releases
@@ -31,8 +32,8 @@ App ko internet se chalne ki zaroorat nahi hoti.
 ## Naya version kaise daalein
 
 ```
-gh release create v1.10.45 "Goswami-Image-Pro-Setup-1.10.45.exe" "Goswami-Image-Pro-Trial-1.10.45.zip" \
-  --title "Version-1.10.45" --notes "..."
+gh release create v1.10.69 "Goswami-Image-Pro-Setup-1.10.69.exe" "Goswami-Image-Pro-Trial-1.10.69.zip" "Goswami-Image-Pro-Features-1.10.69.pdf" \
+  --title "Version-1.10.69" --notes "..."
 ```
 
 Asset ka naam file ke naam se aata hai — isliye setup ki local copy pehle hyphen wale naam se
